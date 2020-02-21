@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F1187A6D-FCB9-F7DE-8DAC-61277D362667}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alien vs Ballom" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CodeMonkey" expanded="True">
+                <Node name="Utils" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="ExplotarGlobos.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c95ea2de-d61e-425f-a37b-fc24bbfb370a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
